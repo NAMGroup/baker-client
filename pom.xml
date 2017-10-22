@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>gr.upatras.ece.nam</groupId>
-	<artifactId>gr.upatras.ece.nam.baker.client</artifactId>
+	<groupId>org.toscabaker</groupId>
+	<artifactId>org.toscabaker.client</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>gr.upatras.ece.nam.baker.client Maven Webapp</name>
+	<name>org.toscabaker.client Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<description>Baker Client is a simple CXF JAX-RS webapp service acting as a client to Baker marketplace using spring configuration</description>
 
