@@ -1,7 +1,7 @@
-A Client installed in target machines managed by  the FISH-Marketplace Web Service
+A Client installed in target machines managed by the BAKER TOSCA Template Marketplace and Orchestration Service
 ==========
-
-FISH-Marketplace Web Service is a RESTful marketplace service for FISH project of FI-STAR (http://www.fi-star.eu)
+This java client is installed in machines to be orchestrated by the BAKER TOSCA Template Marketplace and Orchestration Service.
+BAKER-TTMOS is a RESTful marketplace web service implementing a public marketplace solutiontogether with an orchestration engine for easily deploying TOSCA based templates on top of Openstack infrastructures (https://github.com/NAMGroup/BAKER-TTMOS)
 
 
 Licenses
